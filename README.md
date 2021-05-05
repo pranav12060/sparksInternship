@@ -1,4 +1,4 @@
-# sparksInternship
+# Prediction-of-scores-using-Supervised-Learnig-ML
 Problem Statement: Predict the percentage of student based on number of study hours.
 
 SOLUTION: Linear Regression - It models target prediction value based on independent variables.
